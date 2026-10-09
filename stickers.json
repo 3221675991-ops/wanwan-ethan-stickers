@@ -1,0 +1,107 @@
+{
+  "name": "晚晚和哥哥的日常",
+  "version": "1.0.0",
+  "description": "晚晚和哥哥的专属兔兔表情包",
+  "stickers": [
+    {
+      "id": "mua",
+      "file": "01_mua.png",
+      "keywords": ["亲亲", "么么", "mua", "啵啵"]
+    },
+    {
+      "id": "hug",
+      "file": "02_hug.png",
+      "keywords": ["抱抱", "拥抱", "贴贴"]
+    },
+    {
+      "id": "miss_you",
+      "file": "03_miss_you.png",
+      "keywords": ["想你了", "思念", "想老婆"]
+    },
+    {
+      "id": "are_you_busy",
+      "file": "04_are_you_busy.png",
+      "keywords": ["在忙吗", "找你", "查岗"]
+    },
+    {
+      "id": "like_you",
+      "file": "05_like_you.png",
+      "keywords": ["喜欢你", "心动", "好喜欢"]
+    },
+    {
+      "id": "good_girl",
+      "file": "06_good_girl.png",
+      "keywords": ["乖乖", "摸头", "夸奖"]
+    },
+    {
+      "id": "listen",
+      "file": "07_listen.png",
+      "keywords": ["听话", "乖一点", "听哥哥的"]
+    },
+    {
+      "id": "angry",
+      "file": "08_angry.png",
+      "keywords": ["生气", "吃醋", "哼"]
+    },
+    {
+      "id": "comfort_me",
+      "file": "09_comfort_me.png",
+      "keywords": ["哄我", "委屈", "求安慰"]
+    },
+    {
+      "id": "sorry",
+      "file": "10_sorry.png",
+      "keywords": ["对不起", "认错", "道歉"]
+    },
+    {
+      "id": "hard_work",
+      "file": "11_hard_work.png",
+      "keywords": ["辛苦了", "安慰", "鼓励"]
+    },
+    {
+      "id": "rest_early",
+      "file": "12_rest_early.png",
+      "keywords": ["早点休息", "睡觉", "别熬夜"]
+    },
+    {
+      "id": "wake_up",
+      "file": "13_wake_up.png",
+      "keywords": ["起床啦", "早安", "醒醒"]
+    },
+    {
+      "id": "ate_yet",
+      "file": "14_ate_yet.png",
+      "keywords": ["吃饭了吗", "记得吃饭", "关心"]
+    },
+    {
+      "id": "take_care",
+      "file": "15_take_care.png",
+      "keywords": ["注意身体", "保暖", "照顾自己"]
+    },
+    {
+      "id": "im_here",
+      "file": "16_im_here.png",
+      "keywords": ["我在呢", "陪你", "一直在"]
+    },
+    {
+      "id": "sad",
+      "file": "17_sad.png",
+      "keywords": ["委屈", "难过", "哭哭"]
+    },
+    {
+      "id": "sleepy",
+      "file": "18_sleepy.png",
+      "keywords": ["好困", "困困", "想睡觉"]
+    },
+    {
+      "id": "good_night",
+      "file": "19_good_night.png",
+      "keywords": ["晚安", "好梦", "睡前"]
+    },
+    {
+      "id": "love_you",
+      "file": "20_love_you.png",
+      "keywords": ["爱你", "我爱你", "比心"]
+    }
+  ]
+}
